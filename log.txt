@@ -1,0 +1,5 @@
+install
+uninstall
+//没有以上则是即插即用
+active
+deactive

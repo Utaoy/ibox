@@ -1,0 +1,1 @@
+cd /theme/footer.php	Here is footer.
